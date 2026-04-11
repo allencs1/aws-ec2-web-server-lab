@@ -41,7 +41,7 @@ A publicly accessible webpage hosted from an AWS EC2 instance.
 ## Project Screenshots
 
 ### EC2 Instance
-![EC2 Screenshot](<screenshots/Screenshot 2026-04-10 at 14-51-13 Instances EC2 us-east-2.png" width="200">
+<img src="screenshots/Screenshot 2026-04-10 at 14-51-13 Instances EC2 us-east-2.png" width="300">
 
 ### SSH Connection
 ![Terminal View 1](<screenshots/Screenshot from 2026-04-10 16-18-10.png>)
