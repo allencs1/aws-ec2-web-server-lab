@@ -41,10 +41,10 @@ A publicly accessible webpage hosted from an AWS EC2 instance.
 ## Project Screenshots
 
 ### EC2 Instance
-<img src="screenshots/Screenshot 2026-04-10 at 14-51-13 Instances EC2 us-east-2.png" width="300" height="200">
+<img src="screenshots/Screenshot 2026-04-10 at 14-51-13 Instances EC2 us-east-2.png" width="300" height="300">
 
 ### SSH Connection
-![Terminal View 1](<screenshots/Screenshot from 2026-04-10 16-18-10.png>)
+<img src="screenshots/Screenshot from 2026-04-10 16-18-10.png" width="300" height="300">
 
 
 ### Web Server Running
