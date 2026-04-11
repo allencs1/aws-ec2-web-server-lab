@@ -44,7 +44,7 @@ A publicly accessible webpage hosted from an AWS EC2 instance.
 ![EC2 Screenshot](<screenshots/Screenshot 2026-04-10 at 14-51-13 Instances EC2 us-east-2.png>)
 
 ### SSH Connection
-![Apache Success](<screenshots/Screenshot from 2026-04-10 16-29-28.png>)
+![Terminal View 1](<screenshots/Screenshot from 2026-04-10 16-18-10.png>)
 
 
 ### Web Server Running
