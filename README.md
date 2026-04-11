@@ -44,8 +44,8 @@ A publicly accessible webpage hosted from an AWS EC2 instance.
 <img src="screenshots/ec2-Instances.png" width="450" height="450">
 
 ### SSH Connection
-<img src="screenshots/Screenshot from 2026-04-10 16-18-10.png" width="450" height="450">
+<img src="screenshots/terminal.png" width="450" height="450">
 
 
 ### Web Server Running
-<img src="screenshots/Screenshot from 2026-04-10 16-27-38.png" width="450" height="450">
+<img src="screenshots/web-page.png" width="450" height="450">
