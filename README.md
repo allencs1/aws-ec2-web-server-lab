@@ -48,4 +48,4 @@ A publicly accessible webpage hosted from an AWS EC2 instance.
 
 
 ### Web Server Running
-![Terminal Confirmation](<screenshots/Screenshot from 2026-04-10 16-56-14
+![Terminal View 2](<screenshots/Screenshot from 2026-04-10 16-29-28.png>)
