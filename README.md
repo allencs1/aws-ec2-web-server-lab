@@ -38,3 +38,13 @@ A publicly accessible webpage hosted from an AWS EC2 instance.
 - Linux Administration
 - Web Server Configuration
 - Networking and Security Groups
+## Project Screenshots
+
+### EC2 Instance
+![EC2 Instance](screenshots/ec2-instance.png)
+
+### SSH Connection
+![SSH Terminal](screenshots/ssh-terminal.png)
+
+### Web Server Running
+![Website](screenshots/website-running.png)
