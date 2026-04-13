@@ -43,9 +43,13 @@ sudo systemctl restart apache2
 Key Learnings
 
 -Launching and configuring EC2 instances
+
 -Connecting via SSH using key pairs
+
 -Basic Linux navigation and commands
+
 -Installing and managing Apache web server
+
 -Configuring security groups
 
 Challenges Faced
