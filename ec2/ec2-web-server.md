@@ -1,57 +1,55 @@
 EC2 Web Server Project
 
-## Overview
+Overview
+
 This project demonstrates launching and configuring a web server using Amazon EC2.
 
-## Architecture
+Architecture
 User → EC2 Instance → Apache Web Server
 
-## Services Used
-- Amazon EC2 (virtual server)
-- Ubuntu Linux
-- Apache2 (web server)
+Services Used
+Amazon EC2 (virtual server)
+Ubuntu Linux
+Apache2 (web server)
+Implementation Steps
 
-## Steps Performed
+1. Launch EC2 Instance
+Selected Ubuntu AMI
+Used t3.micro (free tier eligible)
+Configured security group:
+SSH (My IP)
+HTTP (0.0.0.0/0)
 
-1. Launched EC2 Instance
-- Selected Ubuntu AMI
-- Used t3.micro (free tier eligible)
-- Configured security group:
-  - SSH (My IP)
-  - HTTP (0.0.0.0/0)
-
-2. Connected via SSH
-```bash
+2. Connect via SSH
 ssh -i key.pem ubuntu@<public-ip>
 
-3. Installed Apache
+3. Install Apache
 sudo apt update
 sudo apt install apache2 -y
 
-4. Verified Web Server
-Accessed public IP in browser
+4. Verify Web Server
+Opened EC2 public IP in browser
 Confirmed Apache default page loaded
 
-5. Edited Web Page
+5. Edit Web Page
 cd /var/www/html
 sudo nano index.html
 Replaced default content with custom HTML
 
-6. Restarted Apache
+6. Restart Apache
 sudo systemctl restart apache2
 
 Key Learnings
--How to launch and configure EC2 instances
--SSH access using key pairs
--Basic Linux navigation and commands
--Installing and managing a web server
--Security group configuration
+Launching and configuring EC2 instances
+Connecting via SSH using key pairs
+Basic Linux navigation and commands
+Installing and managing Apache web server
+Configuring security groups
 
-### Challenges Faced
--SSH connection confusion
--Understanding Linux file structure
--Managing permissions with sudo
+Challenges Faced
+SSH connection confusion
+Understanding Linux file structure
+Managing permissions with sudo
 
-Outcome
-
+End Result
 Successfully deployed a live web server on EC2 and customized the hosted webpage.
