@@ -52,10 +52,13 @@ Key Learnings
 
 -Configuring security groups
 
+
 Challenges Faced
 
 -SSH connection confusion
+
 -Understanding Linux file structure
+
 -Managing permissions with sudo
 
 
