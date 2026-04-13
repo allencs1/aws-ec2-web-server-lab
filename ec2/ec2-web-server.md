@@ -13,14 +13,14 @@ User → EC2 Instance → Apache Web Server
 
 ## Steps Performed
 
-### 1. Launched EC2 Instance
+1. Launched EC2 Instance
 - Selected Ubuntu AMI
 - Used t3.micro (free tier eligible)
 - Configured security group:
   - SSH (My IP)
   - HTTP (0.0.0.0/0)
 
-### 2. Connected via SSH
+2. Connected via SSH
 ```bash
 ssh -i key.pem ubuntu@<public-ip>
 
@@ -41,16 +41,16 @@ Replaced default content with custom HTML
 sudo systemctl restart apache2
 
 Key Learnings
-How to launch and configure EC2 instances
-SSH access using key pairs
-Basic Linux navigation and commands
-Installing and managing a web server
-Security group configuration
+-How to launch and configure EC2 instances
+-SSH access using key pairs
+-Basic Linux navigation and commands
+-Installing and managing a web server
+-Security group configuration
 
-Challenges Faced
-SSH connection confusion
-Understanding Linux file structure
-Managing permissions with sudo
+### Challenges Faced
+-SSH connection confusion
+-Understanding Linux file structure
+-Managing permissions with sudo
 
 Outcome
 
