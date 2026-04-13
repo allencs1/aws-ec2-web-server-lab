@@ -50,8 +50,8 @@ sudo systemctl restart apache2
 
 -Installing and managing Apache web server
 
--Configuring security groups\\
-
+-Configuring security groups
+<br>
 
 
 **Challenges Faced**
