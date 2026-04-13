@@ -40,7 +40,7 @@ Replaced default content with custom HTML
 6. Restart Apache
 sudo systemctl restart apache2
 
-Key Learnings
+**Key Learnings**
 
 -Launching and configuring EC2 instances
 
@@ -50,11 +50,11 @@ Key Learnings
 
 -Installing and managing Apache web server
 
--Configuring security groups
+-Configuring security groups\\
 
 
 
-Challenges Faced
+**Challenges Faced**
 
 -SSH connection confusion
 
