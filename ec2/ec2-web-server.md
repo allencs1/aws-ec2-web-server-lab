@@ -39,6 +39,8 @@ Replaced default content with custom HTML
 
 6. Restart Apache
 sudo systemctl restart apache2
+<br>
+<br>
 
 **Key Learnings**
 
