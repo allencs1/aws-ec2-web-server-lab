@@ -5,6 +5,7 @@ Overview
 This project demonstrates launching and configuring a web server using Amazon EC2.
 
 Architecture
+
 User → EC2 Instance → Apache Web Server
 
 Services Used
@@ -40,6 +41,7 @@ Replaced default content with custom HTML
 sudo systemctl restart apache2
 
 Key Learnings
+
 Launching and configuring EC2 instances
 Connecting via SSH using key pairs
 Basic Linux navigation and commands
@@ -47,9 +49,11 @@ Installing and managing Apache web server
 Configuring security groups
 
 Challenges Faced
+
 SSH connection confusion
 Understanding Linux file structure
 Managing permissions with sudo
 
 End Result
+
 Successfully deployed a live web server on EC2 and customized the hosted webpage.
