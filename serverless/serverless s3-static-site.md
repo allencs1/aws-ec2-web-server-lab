@@ -39,31 +39,47 @@ Uploaded file to S3 bucket
 <br>
 <br>
 **4. Configure Bucket Policy**
+<br<
+<br>
 Added policy to allow public read access
 <br>
 <br>
 **5. Verify S3 Website Endpoint**
+<br>
+<br>
 Accessed S3 website URL
 Confirmed site loads successfully
 <br>
 <br>
 **6. Create CloudFront Distribution**
+<br>
+<br>
 Created distribution using S3 website endpoint
 Configured origin to use: s3-website endpoint (not standard S3 endpoint)
 <br>
 <br>
 **7. Configure Origin Settings**
+<br>
+<br>
 Set origin protocol policy to HTTP only
 Ensured compatibility with S3 static hosting
 <br>
 <br>
 **8. Disable Security Protections (WAF)**
+<br>
+<br>
 Chose not to enable AWS WAF to avoid additional costs
 <br>
 <br>
 **9. Deploy and Test CDN**
+<br>
+<br>
 Waited for CloudFront deployment
+<br>
+<br>
 Accessed CloudFront URL
+<br>
+<br>
 Verified website loads globally
 Key Learnings
 Difference between S3 bucket endpoint and website endpoint
