@@ -119,3 +119,5 @@ Successfully deployed a fully serverless static website using S3 and CloudFront 
 <br>
 <br>
 ![CloudFront](../screenshots/Cloudfront-webpage.png)
+![S3](../screenshots/S3-bucket.png)
+![S3static](../screenshots/S3-Static-webpage.png)
