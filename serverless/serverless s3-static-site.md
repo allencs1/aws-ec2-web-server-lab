@@ -16,15 +16,22 @@ Implementation Steps
 <br>
 <br>
 **1. Create S3 Bucket**
+<br>
+<br>
 Created a globally unique bucket name
 Selected correct AWS region
 <br>
 <br>
 **2. Enable Static Website Hosting**
+<br>
+<br>
 Enabled static website hosting in bucket properties
-Defined:
-index.html as default document
-3. Upload Website Files
+<br>
+<br>
+Defined: index.html as default document
+**3. Upload Website Files**
+<br>
+<br>
 Created index.html locally
 Uploaded file to S3 bucket
 4. Configure Bucket Policy
