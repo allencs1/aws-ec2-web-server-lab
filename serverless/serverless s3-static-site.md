@@ -1,5 +1,7 @@
-S3 Static Website with CloudFront CDN
-Overview
+**S3 Static Website with CloudFront CDN**
+<br>
+<br>
+**Overview**
 
 This project demonstrates hosting a static website using Amazon S3 and delivering it globally using Amazon CloudFront.
 
