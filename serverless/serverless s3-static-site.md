@@ -118,4 +118,4 @@ Understanding S3 permissions and bucket policies
 Successfully deployed a fully serverless static website using S3 and CloudFront with global content delivery.
 <br>
 <br>
-![CloudFront](../screenshots/cloudfrontwebpage.png)
+![CloudFront](../screenshots/cloudfront webpage.png)
