@@ -29,26 +29,39 @@ Enabled static website hosting in bucket properties
 <br>
 <br>
 Defined: index.html as default document
+<br>
+<br>
 **3. Upload Website Files**
 <br>
 <br>
 Created index.html locally
 Uploaded file to S3 bucket
-4. Configure Bucket Policy
+<br>
+<br>
+**4. Configure Bucket Policy**
 Added policy to allow public read access
-5. Verify S3 Website Endpoint
+<br>
+<br>
+**5. Verify S3 Website Endpoint**
 Accessed S3 website URL
 Confirmed site loads successfully
-6. Create CloudFront Distribution
+<br>
+<br>
+**6. Create CloudFront Distribution**
 Created distribution using S3 website endpoint
-Configured origin to use:
-s3-website endpoint (not standard S3 endpoint)
-7. Configure Origin Settings
+Configured origin to use: s3-website endpoint (not standard S3 endpoint)
+<br>
+<br>
+**7. Configure Origin Settings**
 Set origin protocol policy to HTTP only
 Ensured compatibility with S3 static hosting
-8. Disable Security Protections (WAF)
+<br>
+<br>
+**8. Disable Security Protections (WAF)**
 Chose not to enable AWS WAF to avoid additional costs
-9. Deploy and Test CDN
+<br>
+<br>
+**9. Deploy and Test CDN**
 Waited for CloudFront deployment
 Accessed CloudFront URL
 Verified website loads globally
@@ -62,6 +75,8 @@ Challenges Faced
 CloudFront configuration differences in AWS console
 Access Denied errors due to incorrect origin setup
 Understanding S3 permissions and bucket policies
-Outcome
+<br>
+<br>
+**Outcome**
 
 Successfully deployed a fully serverless static website using S3 and CloudFront with global content delivery.
