@@ -1,51 +1,33 @@
+Cloud Engineering Portfolio – Christopher Allen
+Overview
 
-# AWS EC2 Web Server Lab
+This repository contains hands-on cloud projects demonstrating core skills in cloud infrastructure, networking, and serverless architecture.
 
-## Project Overview
-This project demonstrates how to deploy a Linux web server using Amazon Web Services.
+Projects
+1. EC2 Web Server
+Deployed a Linux-based web server using Amazon EC2
+Configured SSH access, Apache, and security groups
 
-## Architecture
-User Browser → Internet → AWS EC2 Instance → Apache Web Server → HTML Webpage
+👉 View Project
 
-## Technologies Used
-- AWS EC2
-- Ubuntu Linux
-- Apache Web Server
-- SSH Key Authentication
+2. Serverless Static Website (S3 + CloudFront)
+Hosted a static website using Amazon S3
+Integrated CloudFront for global content delivery
+Configured permissions and resolved access issues
 
-## Deployment Steps
+👉 View Project
 
-1. Created an EC2 instance in AWS
-2. Configured security groups
-   - SSH (port 22) restricted to my IP
-   - HTTP (port 80) open to the internet
-3. Connected to the server using SSH
-4. Updated the system packages
-5. Installed Apache
-6. Edited the webpage located at:
+Skills Demonstrated
+Cloud Infrastructure (EC2, S3)
+Networking and Security Groups
+Content Delivery Networks (CloudFront)
+Linux Administration
+Troubleshooting and Debugging
+Tools & Platforms
+Amazon Web Services (AWS)
+Linux (Ubuntu)
+GitHub
+Author
 
-/var/www/html/index.html
-
-7. Deployed a custom webpage
-
-## Result
-
-A publicly accessible webpage hosted from an AWS EC2 instance.
-
-## Skills Demonstrated
-
-- Cloud Infrastructure Deployment
-- Linux Administration
-- Web Server Configuration
-- Networking and Security Groups
-## Project Screenshots
-
-### EC2 Instance
-<img src="screenshots/ec2-Instances.png" width="450" height="450">
-
-### SSH Connection
-<img src="screenshots/terminal.png" width="450" height="450">
-
-
-### Web Server Running
-<img src="screenshots/web-page.png" width="450" height="450">
+Christopher Allen
+Aspiring Cloud Engineer
