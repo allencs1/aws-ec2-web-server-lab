@@ -80,3 +80,4 @@ Successfully deployed a live web server on EC2 and customized the hosted webpage
 <br>
 <br>
 ![EC2 Instance](../screenshots/ec2-Instances.png)
+![terminal](../screenshots/terminal.png)
