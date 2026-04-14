@@ -77,3 +77,6 @@ sudo systemctl restart apache2
 **End Result**
 
 Successfully deployed a live web server on EC2 and customized the hosted webpage.
+<br>
+<br>
+screenshots/ec2-Instances.png
