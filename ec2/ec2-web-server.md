@@ -1,10 +1,10 @@
-EC2 Web Server Project
+**EC2 Web Server Project**
 
 Overview
 
 This project demonstrates launching and configuring a web server using Amazon EC2.
 
-Architecture
+**Architecture**
 
 User → EC2 Instance → Apache Web Server
 
