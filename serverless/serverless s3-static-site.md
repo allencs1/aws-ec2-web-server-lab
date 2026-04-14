@@ -39,7 +39,7 @@ Uploaded file to S3 bucket
 <br>
 <br>
 **4. Configure Bucket Policy**
-<br<
+<br>
 <br>
 Added policy to allow public read access
 <br>
@@ -81,15 +81,35 @@ Accessed CloudFront URL
 <br>
 <br>
 Verified website loads globally
+<br>
+<br>
 Key Learnings
+<br>
+<br>
 Difference between S3 bucket endpoint and website endpoint
+<br>
+<br>
 How CloudFront integrates with S3
+<br>
+<br>
 How CDN improves performance and availability
+<br>
+<br>
 Troubleshooting Access Denied errors
+<br>
+<br>
 Importance of correct origin configuration
-Challenges Faced
+<br>
+<br>
+**Challenges Faced**
+<br>
+<br>
 CloudFront configuration differences in AWS console
+<br>
+<br>
 Access Denied errors due to incorrect origin setup
+<br>
+<br>
 Understanding S3 permissions and bucket policies
 <br>
 <br>
