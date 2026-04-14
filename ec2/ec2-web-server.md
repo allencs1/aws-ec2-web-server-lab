@@ -79,4 +79,4 @@ sudo systemctl restart apache2
 Successfully deployed a live web server on EC2 and customized the hosted webpage.
 <br>
 <br>
-![EC2 Instance](https://raw.githubusercontent.com/allencs1/aws-ec2-web-server-lab/main/screenshots/ec2-Instances.png)
+![EC2 Instance](../screenshots/ec2-Instances.png)
