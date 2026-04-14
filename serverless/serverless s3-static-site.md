@@ -5,18 +5,22 @@
 
 This project demonstrates hosting a static website using Amazon S3 and delivering it globally using Amazon CloudFront.
 
-Architecture
+**Architecture**
 
 User → CloudFront → S3 Static Website
 
-Services Used
+**Services Used**
 Amazon S3 (object storage and static website hosting)
 Amazon CloudFront (content delivery network)
 Implementation Steps
-1. Create S3 Bucket
+<br>
+<br>
+**1. Create S3 Bucket**
 Created a globally unique bucket name
 Selected correct AWS region
-2. Enable Static Website Hosting
+<br>
+<br>
+**2. Enable Static Website Hosting**
 Enabled static website hosting in bucket properties
 Defined:
 index.html as default document
