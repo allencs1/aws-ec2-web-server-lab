@@ -8,7 +8,9 @@ This project demonstrates launching and configuring a web server using Amazon EC
 
 User → EC2 Instance → Apache Web Server
 
-Services Used
+**Services Used**
+<br>
+<br>
 Amazon EC2 (virtual server)
 <br>
 <br>
