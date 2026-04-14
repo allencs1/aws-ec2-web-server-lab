@@ -10,8 +10,14 @@ User → EC2 Instance → Apache Web Server
 
 Services Used
 Amazon EC2 (virtual server)
+<bm>
+<bm>
 Ubuntu Linux
+<bm>
+<bm>
 Apache2 (web server)
+<bm>
+<bm>
 Implementation Steps
 
 1. Launch EC2 Instance
@@ -19,7 +25,6 @@ Selected Ubuntu AMI
 Used t3.micro (free tier eligible)
 Configured security group:
 SSH (My IP)
-HTTP (0.0.0.0/0)
 
 2. Connect via SSH
 ssh -i key.pem ubuntu@<public-ip>
