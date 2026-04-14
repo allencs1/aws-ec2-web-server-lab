@@ -20,7 +20,7 @@ Ubuntu Linux
 Apache2 (web server)
 <br>
 <br>
-Implementation Steps
+**Implementation Steps**
 
 1. Launch EC2 Instance
 Selected Ubuntu AMI
@@ -74,6 +74,6 @@ sudo systemctl restart apache2
 <br>
 
 
-End Result
+**End Result**
 
 Successfully deployed a live web server on EC2 and customized the hosted webpage.
