@@ -15,7 +15,7 @@ Hosted a static website using Amazon S3
 Integrated CloudFront for global content delivery
 Configured permissions and resolved access issues
 
-Skills Demonstrated
+**Skills Demonstrated**
 Cloud Infrastructure (EC2, S3)
 Networking and Security Groups
 Content Delivery Networks (CloudFront)
