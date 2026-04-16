@@ -1,9 +1,15 @@
-Cloud Engineering Portfolio – Christopher Allen
-Overview
-
+**Beginner/Novice Level Cloud Engineer– Christopher Allen**
+<br>
+<br>
+<br>
+**Overview**
+<br>
+<br>
 This repository contains hands-on cloud projects demonstrating core skills in cloud infrastructure, networking, and serverless architecture.
 
-Projects
+**Projects**
+<br>
+<br>
 **1. EC2 Web Server**
 Deployed a Linux-based web server using Amazon EC2
 <br>
@@ -21,6 +27,8 @@ Integrated CloudFront for global content delivery
 Configured permissions and resolved access issues
 
 **Skills Demonstrated**
+<br>
+<br>
 Cloud Infrastructure (EC2, S3)
 <br>
 <br>
